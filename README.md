@@ -38,9 +38,7 @@ The following guidelines should be strictly adhered to by contributors for the e
 # Contributors and References 
 The team handling this project include;
 ```
- Bryan Somtochukwu <Bryansomto@github.com>
-
- Akeem Akinyoola <Akeemandela@github.com>
+ Eustace Mbanefo <eustace364@gmail.com>
 
 ```
 The following references assisted the actualization of this project.[YouTube video](https://youtu.be/dam0GPOAvVI) 
